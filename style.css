@@ -1,0 +1,36 @@
+body, div, header, main, footer{
+    box-sizing: border-box;
+}
+
+
+
+body{
+
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+/* container */
+.container{
+    width:80%;
+    background-color: bisque;
+    margin:auto;   /* Centralizar  */
+    padding: 30px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+
+table{
+
+    border: 3px dotted black;
+
+}
+
+th{
+    padding: 15px;
+    border: 1px solid black;
+    background-color: burlywood;
+}
